@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+organizer_log.txt
+IT-Automation-Toolkit/
+setup_config.json
